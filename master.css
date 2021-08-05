@@ -25,10 +25,11 @@ body {
 
 nav {
       padding: 8px;
+      color: white;
 }
 
 .logo {
-      color:white;
+      color: white;
       float: right;
       padding: 8px;
       margin-left: 16px;
@@ -36,7 +37,7 @@ nav {
 }
 
 .logo a {
-      color: #000;
+      color: white;
       text-transform: lowercase;
       font-weight: 700;
       font-size: 18px;
