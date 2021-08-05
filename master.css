@@ -157,19 +157,23 @@ nav ul li a {
             background: #000;
             border-radius: 2px;
             margin-left: 14px;
+            color:cyan;
       }
 
       .nav-btn i:nth-child(1) {
             margin-top: 16px;
+            color:cyan;
       }
 
       .nav-btn i:nth-child(2) {
             margin-top: 4px;
             opacity: 1;
+            color:cyan;
       }
 
       .nav-btn i:nth-child(3) {
             margin-top: 4px;
+            color:cyan;
       }
 }
 
