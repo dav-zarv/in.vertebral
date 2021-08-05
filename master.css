@@ -35,6 +35,7 @@ nav {
 }
 
 .logo a {
+      float: center;
       color: pink;
       text-transform: lowercase;
       font-weight: 700;
