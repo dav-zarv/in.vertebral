@@ -23,7 +23,8 @@ body {
 
 nav {
       padding: 8px;
-      color: red;
+      background-color: red;
+
 }
 
 .logo {
