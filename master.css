@@ -24,7 +24,7 @@ body {
 
 nav {
       padding: 8px;
-      color: white;
+      color: red;
 }
 
 .logo {
@@ -35,7 +35,7 @@ nav {
 }
 
 .logo a {
-      color: pink;
+      color: black;
       text-transform: lowercase;
       font-weight: 700;
       font-size: 18px;
@@ -63,7 +63,7 @@ nav ul li:last-child {
 nav ul li a {
       display: inline-block;
       outline: none;
-      color: #000;
+      color: red;
       text-transform: lowercase;
       text-decoration: none;
       font-size: 14px;
