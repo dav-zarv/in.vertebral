@@ -135,6 +135,7 @@ nav ul li a {
       }
 
       .nav-btn {
+            color:white;
             position: fixed;
             right: 10px;
             top: 10px;
