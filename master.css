@@ -1,6 +1,6 @@
 * {
       box-sizing: border-box;
-      color:cyan;
+
 }
 
 html {
@@ -168,6 +168,7 @@ nav ul li a {
             background: #000;
             border-radius: 2px;
             margin-left: 14px;
+            color:red;
 
       }
 
