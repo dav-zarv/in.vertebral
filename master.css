@@ -11,9 +11,9 @@ html {
 
 header {
       margin: 0;
-      padding: 80;
-      width: 100%x;
-      height: 100vh;
+      padding: 0;
+      width: 100%;
+      height: 50px;
       font-family: Arial;
       font-weight: 400;
       background-color: white;
