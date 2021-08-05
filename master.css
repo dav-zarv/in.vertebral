@@ -61,7 +61,7 @@ nav ul li:last-child {
 nav ul li a {
       display: inline-block;
       outline: none;
-      color: #000;
+      color: #fff;
       text-transform: lowercase;
       text-decoration: none;
       font-size: 14px;
@@ -81,7 +81,7 @@ nav ul li a {
             width: 100%;
             height: 100%;
             z-index: -1;
-            background: #fff;
+            background: #pink;
             opacity: 0;
             transition: all 0.2s ease;
       }
