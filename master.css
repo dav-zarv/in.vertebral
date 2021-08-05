@@ -99,7 +99,7 @@ nav ul li a {
             top: 50%;
             transform: translateY(-50%);
             width: 100%;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li {
@@ -108,32 +108,32 @@ nav ul li a {
             width: 100%;
             text-align: right;
             margin-bottom: 10px;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li:nth-child(1) a {
             transition-delay: 0.2s;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li:nth-child(2) a {
             transition-delay: 0.3s;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li:nth-child(3) a {
             transition-delay: 0.4s;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li:nth-child(4) a {
             transition-delay: 0.5s;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li:not(:first-child) {
             margin-left: 0;
-            color:cyan;
+
       }
 
       .nav-wrapper ul li a {
@@ -145,7 +145,7 @@ nav ul li a {
             letter-spacing: 1.2px;
             transform: translateX(-20px);
             transition: all 0.2s ease;
-            color:cyan;
+
       }
 
       .nav-btn {
@@ -158,7 +158,7 @@ nav ul li a {
             cursor: pointer;
             z-index: 9999;
             border-radius: 50%;
-            color:cyan;
+
       }
 
       .nav-btn i {
@@ -168,23 +168,23 @@ nav ul li a {
             background: #000;
             border-radius: 2px;
             margin-left: 14px;
-            color:cyan;
+
       }
 
       .nav-btn i:nth-child(1) {
             margin-top: 16px;
-            color:cyan;
+
       }
 
       .nav-btn i:nth-child(2) {
             margin-top: 4px;
             opacity: 1;
-            color:cyan;
+
       }
 
       .nav-btn i:nth-child(3) {
             margin-top: 4px;
-            color:cyan;
+
       }
 }
 
