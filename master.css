@@ -184,6 +184,7 @@ nav ul li a {
 
 #nav:checked + .nav-btn i:nth-child(1) {
       transform: translateY(6px) rotate(180deg);
+      color:orange;
 }
 
 #nav:checked + .nav-btn i:nth-child(2) {
