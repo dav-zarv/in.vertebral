@@ -28,14 +28,14 @@ nav {
 }
 
 .logo {
-      float: right;
+      float: center;
       padding: 8px;
       margin-left: 16px;
       margin-top: 8px;
 }
 
 .logo a {
-      color: black;
+      color: pink;
       text-transform: lowercase;
       font-weight: 700;
       font-size: 18px;
