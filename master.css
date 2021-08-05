@@ -33,6 +33,21 @@ body {
       background-size: cover;
 }
 
+footer {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100vh;
+      font-family: Arial;
+      font-weight: 400;
+      background-color: black;
+      background-position: center;
+      background-size: cover;
+      color: #000;
+      float: center;
+}
+
+
 
 nav {
       padding: 8px;
