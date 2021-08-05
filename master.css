@@ -14,9 +14,9 @@ body {
       padding: 0;
       width: 100%;
       height: 100vh;
-      font-family: Arial;
+      font-family: Poppins;
       font-weight: 400;
-      background: white;
+      background-color: white;
       background-position: center;
       background-size: cover;
 }
@@ -81,7 +81,7 @@ nav ul li a {
             width: 100%;
             height: 100%;
             z-index: -1;
-            background: #000;
+            background: #fff;
             opacity: 0;
             transition: all 0.2s ease;
       }
@@ -124,7 +124,7 @@ nav ul li a {
       .nav-wrapper ul li a {
             padding: 10px 24px;
             opacity: 0;
-            color: #fff;
+            color: #000;
             font-size: 14px;
             font-weight: 600;
             letter-spacing: 1.2px;
@@ -145,7 +145,6 @@ nav ul li a {
       }
 
       .nav-btn i {
-            color: red;
             display: block;
             width: 20px;
             height: 2px;
